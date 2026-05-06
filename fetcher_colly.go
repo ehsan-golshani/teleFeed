@@ -209,9 +209,138 @@ func fetchChannelDataWithColly(username string) (*ChannelData, error) {
 
 	c.Wait()
 
-	// Just use the posts we found
-	fmt.Printf("  - Posts found: %d\n", len(channelData.Posts))
+	// Store initial posts count
+	initialPostCount := len(channelData.Posts)
+	fmt.Printf("  - Initial posts found: %d\n", initialPostCount)
 
+	// Try to load more posts using scroll
+	fmt.Printf("  - Attempting to load more posts...\n")
+	
+	// Create a new collector for scroll request
+	c2 := colly.NewCollector(
+		colly.AllowURLRevisit(),
+		colly.Async(false),
+	)
+
+	// Set the same headers
+	c2.OnRequest(func(r *colly.Request) {
+		userAgents := []string{
+			"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+			"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
+		}
+		r.Headers.Set("User-Agent", userAgents[rand.Intn(len(userAgents))])
+		r.Headers.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8")
+		r.Headers.Set("Accept-Language", "en-US,en;q=0.9,fa;q=0.8")
+		r.Headers.Set("DNT", "1")
+		r.Headers.Set("Connection", "keep-alive")
+	})
+
+	// Extract posts from scroll request
+	var olderPosts []Post
+	c2.OnHTML(`.tgme_widget_message_wrap > div[data-post]`, func(e *colly.HTMLElement) {
+		post := Post{}
+		
+		// Extract post ID
+		postIDStr := e.Attr("data-post")
+		if postIDStr != "" {
+			parts := strings.Split(postIDStr, "/")
+			if len(parts) > 1 {
+				fmt.Sscanf(parts[1], "%d", &post.ID)
+			}
+		}
+
+		// Extract message text
+		e.ForEach(".tgme_widget_message_text", func(i int, textElem *colly.HTMLElement) {
+			messageHTML, _ := textElem.DOM.Html()
+			post.Message = strings.TrimSpace(messageHTML)
+		})
+
+		// Extract date
+		e.ForEach("time", func(i int, timeElem *colly.HTMLElement) {
+			if datetime := timeElem.Attr("datetime"); datetime != "" {
+				if parsedTime, err := time.Parse("2006-01-02T15:04:05-07:00", datetime); err == nil {
+					post.Date = parsedTime
+				} else if parsedTime, err := time.Parse("2006-01-02T15:04:05+00:00", datetime); err == nil {
+					post.Date = parsedTime
+				} else if parsedTime, err := time.Parse(time.RFC3339, datetime); err == nil {
+					post.Date = parsedTime
+				}
+			}
+		})
+
+		// Extract views
+		e.ForEach(".tgme_widget_message_views", func(i int, viewsElem *colly.HTMLElement) {
+			viewsText := strings.TrimSpace(viewsElem.Text)
+			if viewsText != "" {
+				if strings.HasSuffix(viewsText, "K") {
+					var views float64
+					fmt.Sscanf(strings.TrimSuffix(viewsText, "K"), "%f", &views)
+					post.Views = int(views * 1000)
+				} else {
+					fmt.Sscanf(viewsText, "%d", &post.Views)
+				}
+			}
+		})
+
+		// Extract sender info
+		e.ForEach(".tgme_widget_message_owner_name", func(i int, senderElem *colly.HTMLElement) {
+			post.SenderName = strings.TrimSpace(senderElem.Text)
+		})
+
+		// Only add if we have some content
+		if post.ID > 0 || post.Message != "" {
+			if post.Caption == "" {
+				post.Caption = ""
+			}
+			olderPosts = append(olderPosts, post)
+		}
+	})
+
+	// Wait a bit before scroll request
+	time.Sleep(2 * time.Second)
+
+	// Try to scroll using the first post ID
+	if len(channelData.Posts) > 0 {
+		firstPostID := channelData.Posts[0].ID
+		if firstPostID > 0 {
+			scrollURL := fmt.Sprintf("https://t.me/s/%s?before=%d", username, firstPostID)
+			fmt.Printf("  - Trying scroll URL: %s\n", scrollURL)
+			
+			err = c2.Visit(scrollURL)
+			if err != nil {
+				fmt.Printf("  - Scroll failed, keeping initial posts: %v\n", err)
+			} else {
+				c2.Wait()
+				
+				// Filter out duplicates
+				if len(olderPosts) > 0 {
+					existingIDs := make(map[int64]bool)
+					for _, existingPost := range channelData.Posts {
+						existingIDs[existingPost.ID] = true
+					}
+					
+					var trulyOlderPosts []Post
+					for _, olderPost := range olderPosts {
+						if !existingIDs[olderPost.ID] {
+							trulyOlderPosts = append(trulyOlderPosts, olderPost)
+						}
+					}
+					
+					if len(trulyOlderPosts) > 0 {
+						// Prepend older posts before newer posts
+						channelData.Posts = append(trulyOlderPosts, channelData.Posts...)
+						fmt.Printf("  - Successfully loaded %d older posts (total: %d)\n", len(trulyOlderPosts), len(channelData.Posts))
+					} else {
+						fmt.Printf("  - No additional posts loaded, keeping initial %d posts\n", initialPostCount)
+					}
+				} else {
+					fmt.Printf("  - Scroll returned no posts, keeping initial %d posts\n", initialPostCount)
+				}
+			}
+		}
+	}
+
+	fmt.Printf("  - Total posts found: %d\n", len(channelData.Posts))
 	channelData.LastUpdated = time.Now().Unix()
 	return channelData, nil
 }
