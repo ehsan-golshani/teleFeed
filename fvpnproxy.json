@@ -7,72 +7,12 @@
   },
   "posts": [
     {
-      "id": 526,
-      "message": "براتون سرور جدید v2ray آوردم\u003cbr/\u003eبدون محدودیت حجم\u003cbr/\u003eحسابی دانلود کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AD.png\u0026#39;)\"\u003e\u003cb\u003e🤭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA3.png\u0026#39;)\"\u003e\u003cb\u003e🫣\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://fvpnproxy@85.192.38.162:80?mode=auto\u0026amp;path=%2F\u0026amp;security=\u0026amp;encryption=none\u0026amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026amp;host=google.com\u0026amp;type=xhttp#Telegram:@FvpnProxy\u003c/code\u003e",
-      "date": "2026-05-30T06:43:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "FVPN"
-    },
-    {
-      "id": 527,
-      "message": "خب  40k سوکت چه به سر این آوردین \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9885.png\u0026#39;)\"\u003e\u003cb\u003e😅\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA3.png\u0026#39;)\"\u003e\u003cb\u003e🫣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AD.png\u0026#39;)\"\u003e\u003cb\u003e🤭\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-05-30T06:56:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 54600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "FVPN",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/maYOuEYp-8U0E0WfA2BARJJo4BnyZNcp-QQGOxRxikfje1TweJbUEKUHZi5sKwaJsNqTOTmf47s0npKOs-COx-qXBlBj_g8Xl5hRYZVnGiVO5e1OhtE9eBxqQw00ncU-8wK8qFD2jH6F97UfNmwfXiQU_2PndfLS1qSmNqEUXAVO6dOGhmi52Z6zLD5GdPYNikq1yUPHRi2JypsJIhyjhq0l0Yr0hW3wyzo0-X_ol5w_gGCEDd0Hqai10f6FPmOqwiKsDG94F0pzV32pUBOva4pTa0lCByy141Egr5xQv7SnyBbLrhklpQmp29znIZxSeOqELqRLiUrzTE_RhSwoHw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 528,
-      "message": "اونقد درخواست به سرور زیاد میاد که خودمم به زور بهش وصل میشم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eمنابع سرور 2 برابر شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AD.png\u0026#39;)\"\u003e\u003cb\u003e🤭\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-05-30T07:07:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "FVPN"
-    },
-    {
-      "id": 529,
-      "message": "چه میکنید با این 80k\u003cbr/\u003e همنیجور داره میره بالا تعداد",
-      "date": "2026-05-30T07:11:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "FVPN",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/FQCrG4CK83zaFOL72tudv6d2DvO4O8lMYW5z_hHEsfq7rOuRNOfHCrGmuu1uW84D9EeY73HseSGFlb8OYcd86BynyNBkv4C7usyggvIGzX8zvXOY9Xz03vVTnXP7zRCeYR6xQGFCH4mMgxoBf4DwGLtmsZCs-SYfUPAcoiBE2WVhryJEGE5pc2jkhRtP6r7SqoSv01zkkuE_Rm2fLvveDE_nx7THMcjKN6dIrm2eQNlRQvVrfJZwRINhvAlO_38s3uoXDYOqgRAsf9zPiMU3JcYazQcHJt-ba4OpDggMvP2_Cv9YrUewdMrN2iQIu0-bPMhkGo16npNsxizcHiFelQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 530,
       "message": "دوباره منابع 2 برابر شد\u003cbr/\u003eدارید پدر سرور در میارید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9885.png\u0026#39;)\"\u003e\u003cb\u003e😅\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-05-30T07:13:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63600,
+      "views": 64099,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +24,7 @@
       "date": "2026-05-30T07:17:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 67000,
+      "views": 67500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +42,7 @@
       "date": "2026-05-31T20:34:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53600,
+      "views": 54800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +54,7 @@
       "date": "2026-06-02T10:18:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42200,
+      "views": 45000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +66,7 @@
       "date": "2026-06-02T12:15:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39500,
+      "views": 42000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +78,7 @@
       "date": "2026-06-03T07:08:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35900,
+      "views": 36400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +90,7 @@
       "date": "2026-06-03T07:44:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35300,
+      "views": 35800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +102,7 @@
       "date": "2026-06-03T13:26:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31900,
+      "views": 32400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +114,7 @@
       "date": "2026-06-03T14:04:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33200,
+      "views": 33900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +126,7 @@
       "date": "2026-06-03T15:49:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33100,
+      "views": 33700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +138,7 @@
       "date": "2026-06-03T18:35:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33200,
+      "views": 34000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +150,7 @@
       "date": "2026-06-04T12:34:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28200,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +162,7 @@
       "date": "2026-06-04T17:22:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 26000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +170,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/GpDvgGNCtfL2Fok4Aj_L2C0M1CV6g-KN5Pukj98mTlogd0Q9gvS9qp1X6rxYJpda7zYq8exocuaeqZZxVtxIG1PpkkeHmnc3wt_LtKL-A9yDd6lZhhIWS5uHLimHyeKR9hgZKA5Crkby39M7caoNGu_RGD4ix1msK8CVlDv409QmMLodYSdO_tNIky8VhQJ9wbD2RzbDPbU_eD5byP0UeBg0v69x_Fc7bjwSRdo2fxdtz0KAh94-ilL2P4_TNX_6Jbv77NdqjiMrbUSl_XRKke2fYa7mg9PpZlPSZvIU6xaTBoKd_tcOeiLl6EGMgWZsLLLfaa3mj0K0gyBLqoiOHg.jpg"
+          "url": "https://cdn1.telesco.pe/file/Lr_yjrfpDB4EzF9zp2F6rTWupbBUUurK2uYa2eNmakUJOPuajBqrO-KDwPilvgAZH6cri8ta5UI2KwcFkOwDu1jfpLIYNcThLM0UaVvrjYMwXWNuEJ4AO-EnhLyTlUJvzQXfvLvDPwSRrtVO_6yBo2JfjNzUWSM5Dql97eLzXiSwcokfzx0lh4kRNiygDJn6qIx7aEVMvrhQ9_z2BTrUjGsIKlvV2yMW3RVZVvMugGzx-sXBYCSurNO9UWpEPlt64BYarEiBt9_aJ0r-tnwUbOF9etf-YkSOG1xvfGaD9W-rBu396lUjP3bp6QbWdqjZyGVtagGAE1OaunkISgw13w.jpg"
         }
       ]
     },
@@ -240,7 +180,7 @@
       "date": "2026-06-04T18:01:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +188,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/cGW0mYwiKQU352IvZa_QFfeV4w_wx1wibM-Iu4Catdptb058LGg7v1IjJ9nZBokRbRpzQO9VJstJ_V3XyVYkaEC50I-BfQYSjyPjuBcxWZRPSH7wyrTh3nXNe0ufgpz_iDQeKX0c2OO8vpl3FoEygJLsuMnH6h8jJOjpJrgaipbIydd6UF-NtvEqP-waCXT_8FEfl3dc6yWr0N_jNSLBxyQO_Nh3xdM5aQcawwa9pFJKEYdxgdQHRq-1uYRVGyRC6EmmKZMdj4t30ZBq8lOByGE8W-fjMYxI_etTXOTWZmuvhf7VTGm7RYcRfqjeldTKSZiOSdFJLKRjSWRzV1YyWg.jpg"
+          "url": "https://cdn1.telesco.pe/file/coNAS2jw_t1wJTiYULXkisrmYq2wHXtWwxYHeW7WIVbyx6MDKKAgxXOKgxVxCq4GdGeKmocGuMX0ImW-IdJGHDfVwt2ru4-T5twzYrabZgyHm8oYlTFwBq45RzVFCeQQKYLZ7yygCtN5Gh3XNLc7t3qah-gguGkD2YnjdrfW0EybYUw4MXNRGc4bUd6fBAe2xTHWD6zGiLbtpTkiZD4-lywoV-28Ez9ja7HIx9lnMh_RoikVf9R7KPrAD5UEp6DJL7rxxDb-0tVtqSjE2Uo-_z6GLZ6NFp3z88FMjZLCQCp9cEkvJH0uCt4-YQqUNE3dqwhnrmVZWr2IHkQ2N7ucLQ.jpg"
         }
       ]
     },
@@ -258,7 +198,7 @@
       "date": "2026-06-04T20:05:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +216,7 @@
       "date": "2026-06-05T06:54:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
+      "views": 18900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,9 +224,63 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/RBx0IP3Lb_Xno7eaz6xqc3yUnOB1ckBYS3s5d2My4MMsxoTu3NpGRbUtlhGOSzHDDvE_o_UZx525sYuIhK1xXiorFEE0uCkTGwcv7Ff6RGVUohf8-X1V8vAbSkI_XWU9BP9_7sLME6x68HxnjCFjUZUluR7Cf33NJzsNxeGkwDSMs_xJ8sPvxFFbKj7wegmMh17Q1iGNjuOl13a4P9fikU6zT26VFc_Iydrk7HWdYvlhKQyTDI2slK_wLwYyayc5RDzNzvisT3emK50j2MBXFHZIzaQpOm3SGY32o3FlfHxp6j8minERTWu20fV-JVIwNlvJuDklw030_z6Bd2ll0g.jpg"
+          "url": "https://cdn1.telesco.pe/file/PEXGdayYoZGrFzbil0AIHETRLbClvYwof2hGny3BBtgOudM0vZA7qbbbUthTQD5QkSrRRUP1Q1MrNQ_5zf5beGtq5UECJu74f51UsJSrarcw4AyUShL6c6HHHlO0oySyJsIymE3R3cC2s5hxYZesPZ6WHAuBCGJilzduHudPZuG1eje3yRsCCsaSaJgIq5tSZICzdsGI6hBZdq8XgyGSX-WAV-Ki-k-Fqkjpu5XGFS8AUb_cmTGoGDRlUklsLMQ5urk3KZtfo6xyNjCbvjMYQmcdfbL8ROd9Y5ThAx06rn5StqJqQ8HzLFzz93e7zffknAxRfabDd8SIsxPSjVH7Ag.jpg"
         }
       ]
+    },
+    {
+      "id": 552,
+      "message": "خب دیگه 21k رد کردیم در مجموع\u003cbr/\u003eامشب چندتا سرو ر جدید قرار میدم، هرچند این سرور همچنان بدون مشکل داره کار میکنه.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9898.png\u0026#39;)\"\u003e\u003cb\u003e😘\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AD.png\u0026#39;)\"\u003e\u003cb\u003e🤭\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-05T17:19:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "FVPN",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/e4fGnLMqBFeIFTkjvCcwMW6Uh47l9g4QA53_jt1mbfMKoy7ZvmaxCXQdhM-cEYucye--gZqN3KEN5EtVEVM37ktEQ9liVt9G4SnOeWUPP7mLUG0uGdM9SSWG3ZuoP69BOfyY8XSJQIvAUZZn6HAmwS0-hm1NMtjti-B7Qqtcf-vineDoRtH_8jHsHqbimwbBQ2o7w6r_LBwVoglzsKVn4z4-OxptZYxCWuIQLyNdyDmtw4uXc49I9zZy-HA8l4H-8R9EPAJMbiTmd3u4RF7NQw6qQoJ_Ft3Zr-wLa9B5ecwiErk5iS-pH8dSdnJ9WSgYGiqAwIfYs23A_HFNvPIvQw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 553,
+      "message": "اینم از پروکسی اختصاصی تازه نفس امشب، برای اتصال روی نوشته زیر بزنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=206.206.103.122\u0026amp;amp;port=2053\u0026amp;amp;secret=bf326e082e8ce950a4dd708e08a112cb\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسرور اختصاصی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9898.png\u0026#39;)\"\u003e\u003cb\u003e😘\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AD.png\u0026#39;)\"\u003e\u003cb\u003e🤭\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-05T17:49:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "FVPN"
+    },
+    {
+      "id": 554,
+      "message": "ببخشید یه لحظه یادم رفته بود سرور روشن کنم . الان روشنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AD.png\u0026#39;)\"\u003e\u003cb\u003e🤭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AD.png\u0026#39;)\"\u003e\u003cb\u003e🤭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AD.png\u0026#39;)\"\u003e\u003cb\u003e🤭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AD.png\u0026#39;)\"\u003e\u003cb\u003e🤭\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-05T17:54:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "FVPN"
+    },
+    {
+      "id": 555,
+      "message": "",
+      "date": "2026-06-05T17:55:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "FVPN"
     }
   ],
   "last_updated": 0
