@@ -3,35 +3,16 @@
     "id": 0,
     "title": "تلویزیون منوتو",
     "username": "ManotoTV",
-    "photo_url": "https://cdn4.telesco.pe/file/l6o49H6RKnAMQr-R2018jJexQRNs3hTp3xU2iZS-zRIQ_00Pys5s51Xba2YpoJG2XARtmgU4USwW2_UYtIcwpVAt0giM-l5ThfVoTXi0cMKf6UXFyWX33oC8HVsPSMq-1Tg03vqQEFSPJH1LzE1Nz5Z5HhLkQ_V5E-9ZTSV0KQopOJp5IMSSawfaTkcwzPV8ssBeMDGwEkocK_PjS-ZVy3hNbD7oqTnIdYmm6vCH6octB_zRVN3X3h-9QBsMl48MejLKFK_gE_bPWXmTmbij1YrYBiFvpbKlK885LAMpG0oCtZ5BhAqaYFKY5f8_JBoXHOvFCaymEnTV-OtA8ok-sw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/cv1W1H7bGpTTLTzMNd20fMox4k57otuWVH1loGXtqNQS7OsXOGji7MZVCWnING8tmzPrxy_rhSUkShQnBNIHrJu5WjZQUSQiymt0-LZlH7IzqDIKwdoPaFfaRJvVhMpvURo58FVwHSt-xzSO3GicfhS128qszrtTwmkcd4gHwEMKliTB0OJGV7iVSS95-fopflfu_nCgDm-9oBX0dgffqhnOGIS8-V5PxlsIU8UUrY3RHDQPXeqF1hYnzNe-yLMaM4jN_LZOj8ncgt4mJLZudH3z6DiPlGMnHUw1In0P2rTVF4dmJxuLbev8OvWRzUwFns3x_q3luwZWwXabJ34A7w.jpg"
   },
   "posts": [
-    {
-      "id": 106685,
-      "message": "گزارشگر منوتو: آب برق زندگی، این شده شعار مردم بیچاره ایران",
-      "date": "2026-08-07T02:00:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/aPnDaK3fQ4KY20IKylyS1DSLVhABQizDDk-gaUFUHlatwIP3HWpHOf1hwp6SOutirl8Mkw3NS07cG0LaOUXhST_EFFImPK2sehj88CMfQk2evkrtiFAQFWEHGAQC_k6XD0LUqoeIkqRDRGEM0ZvgpQjUO4uMAUL81Mli9bFtnIHoUf-qJ1mrbSa8AJ40GKA0peUZ2E0ndd7wFnKyrNSb1wcmNl9NB6Yf3K3lUyfPgFdEVHKdEWiGWfp75mJ6X9UIUIGpIjWzZGuwfC5HOb9vkjGKjSRXdL5a4hoL__Pih7i1bZNOpkeauosAFIt8yKdKg8N1bvgReGEpqfsg8BOtYQ",
-          "width": 406
-        }
-      ]
-    },
     {
       "id": 106686,
       "message": "پیام ارسالی گزارشگر منوتو: «این بنر رو نوشتم و نصب کردم بخاطر پدر و مادرم و خیلی از دوستان و آشنایان خانوادگیمون و در واقع تمامی زن  مردهای بازنشسته که سالیان سال تو عمرشون کار کردند، جون کندند، خون خوردند،  عرق کردند و زحمت کشیدند تا یک لقمه نون حلال برای ما بچه هاشون و خانوادهاشون تهیه کنند و حالا سر پیری به ذلت افتادن و آه ندارن با ناله سودا کنن و این رژیم و دولت و حکومت باهاشون مثل سگ رفتار میکنه و اصلا رفاه اینا براشون هیچ اهمیتی نداره.»",
       "date": "2026-08-07T02:00:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
+      "views": 12900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +31,7 @@
       "date": "2026-08-07T02:00:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
+      "views": 16700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +85,7 @@
       "date": "2026-08-07T11:20:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2770,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,6 +122,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/vpLtEhxhtoAsamfdlyoIHjVe1T8M9KKbyZTAQgCTefmhzZWESCoLnO0OR4CFlqj5ZaSjiflbeOlayC25FtMdggFvy9dKQxn1z2lM7ko-NAO8F0XDqPPS7S5WgTgXm_MJEdkZI_JF2B26w2zi77l5wiTnZt66XY-Joy8BvY7woGf2DZrwKCASWGEJR8WKNswX2KiZ4i7XkblWjl1yL2NS0383-m3svUiLzMTjyqc2j501KPk_7EImQ7WwBoh-REQBcBFD_CHQlcPFBtAkJD2xZLNz_tJc14WHcReYRdQzLg2orl4NG7vqMiD1QpFZGwfRt0dX1nfzlAXZKHNEWWdNaQ"
+        }
+      ]
+    },
+    {
+      "id": 106705,
+      "message": "۱۵ سال پیش، در مستند «قمار اتمی» منوتو، به خطری اشاره شد که امروز دوباره به یکی از مهم‌ترین مسائل مربوط به منافع ملی ایران تبدیل شده است: سهم و حقوق ایران در دریای خزر.\u003cbr/\u003e\u003cbr/\u003eدر این بخش از مستند گفته می‌شود که روسیه و دیگر کشورهای ساحلی خزر در پی تحمیل ترتیبی بودند که می‌توانست سهم ایران را به حدود ۱۱ درصد محدود کند. محدوده‌ای که، برخلاف بخش‌های دیگر خزر، از منابع عمده نفت و گاز نیز بی‌بهره تلقی می‌شد. در مقابل، بحث بر سر سهم ۲۰ درصدی ایران و دفاع از حقوق تاریخی کشور مطرح بود.\u003cbr/\u003e\u003cbr/\u003eاما بخش مهم‌تر روایت «قمار اتمی» نقش جمهوری اسلامی است: حکومتی که در سیاست خارجی خود، رابطه با روسیه را بر دفاع از منافع ملی ایران مقدم کرده است.\u003cbr/\u003e\u003cbr/\u003eحالا، ۱۵ سال بعد، در شرایطی که کنوانسیون وضعیت حقوقی دریای خزر بار دیگر در دستور کار جمهوری اسلامی قرار گرفته، بازدیدن این مستند معنای دیگری پیدا می‌کند.\u003cbr/\u003e\u003cbr/\u003eمستند کامل «قمار اتمی» را در کانال یوتیوب منوتو ببینید.",
+      "date": "2026-08-07T13:21:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/tqktshcluX9OTqKiqEDpumIsRvEwPXqMr7fBWIXjXfkY-GOD7lBxHtTY3lv7TK3lFKQlnAN-9YI0cTPpiNDwmYbXLT501AyKFZ0nqIkOqZWD-zfyvtEI4wk92GLEXHDZMJMMdAiMQucmWIJ_n7N2p110nwoZ_1Kc0yH9g40vi31ySqrx8go6ajYfT46AzCLUY8ZY8dUs4s92w0Gf408n3hhML7PwiFDcdcbMxt_G7nvAcdBMRa23OgH9-ff-h1o02kSVPC-YOJwEKFemCm1sF18MMb5DxuGIjxUhxK7s-07Ci-HvNZs2eyx3mV9o9Tdf0sX3U9WWgSzy7j9j_uZEAA",
+          "width": 406
         }
       ]
     }
