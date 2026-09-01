@@ -12,7 +12,7 @@
       "date": "2026-09-01T06:35:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9170,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-09-01T09:03:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7330,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,6 +111,44 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/C5SkbUpj9O0SvQciA9nRhqHZ8yZP9nbFxJ1n8gFIGl4kHxkp8KutM_um0_O52em69YombNUtTND-W4763-dTd4fdlCIGB0JjpSmHEbMGV9CZ7OECo8KdYcwaEc0lydbLIthtmP-xFzGtkwH8Ra-tmZRNGuDgcCvb9Df3JYRCTirbKOJpIH0C7AOoF1SdKcOLIRGYSQQ_irTOzYDiNOd2yToep3SY-9565m5CponZpJG4cpWdFOjZo3rzjUFh9CvHlM00EmlWf6SP4BZHY-UuwRZRnzbSik3F1bAbAq2kamR9-nnsAok5f-EdT7ksRVd0n5ta5Il55LnAV8Hw4pW3ng"
+        }
+      ]
+    },
+    {
+      "id": 107322,
+      "message": "«کشورهای عربی منابعشان را صرف مردم خودشان می‌کنند» ـ گزارشگر",
+      "date": "2026-09-01T17:25:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/fUQO0qwrl9oFDetSn7rQ_Jtqsg7KtGzEv6MbNYHH4yyaj4bZeBi2SX9CGqXKlkQD3NPG0IOO-etN1LXvlz5FmkxioNcyhObx1tXA6up8I0fVtkkykCHEIW0xwcpEXWD1dPV5lA1zcEPjAjAdEoreEAPB6-NQAXr-4--Z_y5nuAk9In4IqRfTQ47pZ8j-BNEzNG0qUFiA0tSSeHIddP9JV3gLz1Pbl9LvAeSdtikLnsT2-JFOa7dRVI9e2w1VmUuVzPhsEH00nB3D4yYeUheIGtE9jXSYKqyDfb5aVdtLzmlRH4WTlwMhI9SnP-XJmkClEOU1AsgpE8co6DPrqTOSIw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107323,
+      "message": "خاموشی مطلق در اتوبان اطراف تهران",
+      "date": "2026-09-01T17:25:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/sG6ptstKCmfYP9jo4OEKmA9bcFfyyAFxF7LG9Uq4joMS2mKLQbgfBvsVKrcvWAU1osOyACM86A6v8bokX4lFNgLnmbvzl8PM0aXAlxz0CDPQpLFysR_gmuqC1MZvVNf5fF7XUdRhLY4B8RK4aCHOhfblIrvsO95btAipHGokxxYTewbS6KimwMlSEU7zyQTsbOuLdRI3PyN9RAlJiHJyck5ku23FRZC5-EA9cgMX8i_ZVgqP1hKiTgJJkyoYxEjs4wMFeGRE1J830wz3a20ng7B5gbLf7LU3t21da8Eblx5sYXUgMJ3ZHIr1dXrUDl2cLgKKJkldKCFX7HnWaz4aMw",
+          "width": 406
         }
       ]
     }
