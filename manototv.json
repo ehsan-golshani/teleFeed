@@ -12,7 +12,7 @@
       "date": "2026-09-27T10:00:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9120,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-09-27T12:00:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7780,
+      "views": 9330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-09-27T12:00:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8580,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +104,7 @@
       "date": "2026-09-27T17:00:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2450,
+      "views": 6000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +123,7 @@
       "date": "2026-09-27T17:00:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2880,
+      "views": 6370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +142,7 @@
       "date": "2026-09-27T17:00:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3030,
+      "views": 7230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +161,7 @@
       "date": "2026-09-27T17:25:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2220,
+      "views": 8350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,6 +206,25 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/uIFk-S5wOVpOld--8KO3aBEGRslND_OIBwTaimYgSgKVoNMFdYp5e-RGOw6BlIf2R7BfZTJ5m6ldc09PRxPIH_zeEiWAmT1mFsm5da6CLZs-VodwWgc4rR73_a111bt8yVrvetWPDZazee79tdmiH4H_Fe1LHedOmSbLKkt17-v8PbfF8-4ZYJ8HQhMnP0Gl3wKl4mWQ-TlQR18b0mZksjOm5PmHTBNYnLoyocUAGpfFfGgwUYeYKUK7RwgmCqTnVj7FidcFgjMxBNhP5JUjyPHSGbTJoBCk6dJ_tsvGHZdCdiiNJUg3UuAfx9SLJ3QnJRmj8QtjzEeAAau8gehi4g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 107960,
+      "message": "فرهاد محدودی، ۲۹ ساله و ساکن محمدشهر کرج، از جان‌باختگان اعتراضات دی‌ماه ۱۴۰۴ بود. او ۱۸ دی در جریان اعتراضات محمدشهر هدف شلیک مستقیم ماموران جمهوری اسلامی قرار گرفت و بر اثر اصابت گلوله به قفسه سینه جان باخت.",
+      "date": "2026-09-27T19:00:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/K4ISKG_xV1bjBWDbJCEJKUIzg5uRBUN1zR-dAZOnABYzLy-89XaxtmtvHcbmfYn7lp1LK83xIFvPRsrw7G0UBHoHa4SoWUnY6g_34EXv5Wq68hWpFhfp7yDoWPwXJ33FN92DJHIGT9SSGuMOnfqt1w-Occu159lmwNVypANixJ1ds0K_ghsJ8ZcYzN0-pZZ6ZCaHjQbx_hCwGD64tVRX5fD5R2GAnYL7gbzCgpLdYlwDZKLU1IAMXkA1TMoA7K5HE3FDml_I5BMLiSYcq7ciwqLEWNp7avn8O9mpmeWWTdt9ud_CAUVvDgV9T0N8fF5z7yD_eXQkcb2TiV9Ux3YZPA",
+          "width": 406
         }
       ]
     }
