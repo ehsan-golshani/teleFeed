@@ -7,31 +7,12 @@
   },
   "posts": [
     {
-      "id": 108291,
-      "message": "در یک مجموعه شش‌قسمتی، چالش‌های مبارزه برای تغییر سیاسی در ایران را بررسی می‌کنیم.\u003cbr/\u003e\u003cbr/\u003eآیا فراخوان یک رهبر شناخته‌شده برای شکل‌گیری حرکت جمعی کافی است؟ میلیون‌ها نفر می‌توانند یک پیام را بشنوند، اما شنیدن فراخوان، مشارکت و تداوم مبارزه، سه مرحله متفاوت‌اند.\u003cbr/\u003e\u003cbr/\u003eدر قسمت سوم، تفاوت بسیج و سازمان و مسئولیت رهبری را بررسی می‌کنیم و از ضرورت اعتماد، ائتلاف و سازماندهی می‌گوییم. چه چیزی یک جنبش را پابرجا نگه می‌دارد، حتی وقتی پیام بعدی نمی‌رسد؟",
-      "date": "2026-10-10T07:24:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/EnYZQval_CFYybIcSDeGSEwIP_7jz6XzCFJ9dnfqGf4roAfYj5_WUQVUSEeG0clst-YZEh7SX2TFp8xxpSMwNWJc3Jum1Zd3BOwqWYmsYNMZvrn2UlXvsIni1rHI5ijTF1o77bOq24h3XFNDOdj73NgUluWXf2J2sW5Shhhw-d8AoMx-5LVLRhtKxPysgkll_878ho0TwWoVD3b5Lr6-Z2V55i3DuAfo-2nzQEkDmBW6T-rSX4VL0xBkuxhcUpmGHJkjm6ufRTiwccyn4zYR0JQBzKeHB7A-GwTGW7_ay3x5JUd6QwpEHt-4rahSNspBn0W7DZ_C1Gc_9xiurj08yg",
-          "width": 406
-        }
-      ]
-    },
-    {
       "id": 108292,
       "message": "مروری بر مهم‌ترین اخبار و تحولات شنبه ۱۸ مهر ۱۴۰۵.",
       "date": "2026-10-10T09:57:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7790,
+      "views": 9580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +58,7 @@
       "date": "2026-10-10T13:30:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4019,
+      "views": 6530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +77,7 @@
       "date": "2026-10-10T13:30:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3870,
+      "views": 6090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +96,7 @@
       "date": "2026-10-10T13:30:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4200,
+      "views": 6120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +126,7 @@
       "date": "2026-10-10T13:31:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4600,
+      "views": 6850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +145,7 @@
       "date": "2026-10-10T15:06:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1850,
+      "views": 5120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +164,7 @@
       "date": "2026-10-10T15:06:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1790,
+      "views": 5220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +183,7 @@
       "date": "2026-10-10T15:06:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2160,
+      "views": 6550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +202,7 @@
       "date": "2026-10-10T15:06:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2600,
+      "views": 8440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,6 +212,25 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/k0Av36QMKmo80WldVa5kZbiwOQ7Pp36hg6ynf0XD-lyMpIHi411ZIwYqcz2Ygptw-f4bKvqXnK3s5VhrrZSBliqVa5eP3DWNrFfwjgi_zJANFy3KCasG8QFSb2UvhGRvEU1lIuuJg0zU1V-xZsVjC9mKBu-Qn3Bsl77NtM-okF-OQQsk9bsCQvEfy67A8hr6YrJKDTpqHMN3JHPr2GBknYCTRjehmE2PMfVS3GYTRqQhoszCUHcHgkri5eJqWQhDMS0qcSgoIgSklQRb31iCzCoLeDcZcHM81wFjFuqbKfLbaU5w0U8LcX_y9fXOJrLtgNdI6nD_XbwXY6RD4B0iJA",
           "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108311,
+      "message": "مدرسه رفتن، به‌تنهایی به معنای یادگیری نیست. گزارش ۲۰۲۴ بانک جهانی نشان می‌دهد حدود ۴۲ درصد کودکان ایرانی در سنین پایانی دبستان در درک یک متن ساده مشکل دارند. نمره ریاضی دانش‌آموزان پایه چهارم نیز در آزمون تیمز، از ۴۴۳ در سال ۲۰۱۹ به ۴۲۰ در سال ۲۰۲۳ کاهش یافته است.\u003cbr/\u003e\u003cbr/\u003eسرمایه‌گذاری محدود و نابرابری آموزشی، آینده کودکان را تحت فشار قرار داده‌اند؛ کودکان خانواده‌های فقیر بیشترین آسیب را می‌بینند. بحران آموزش در ایران، مسئله اولویت‌های حکومت هم هست.",
+      "date": "2026-10-10T17:53:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4980,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Gzf9q5psM6BETTeDgiFtY1cDXtBMI9PV-divAhy4OV5KAb6t1ic1QPqC-qDALt49Y1Y2J5lZPF9zPNzfu7dGUWUI52k1Q3fkfmN_CTS0h2UGL3imKO-lB6e1JgSN7m9N0wfQOCbDuKxk3ovXpKvL5wV2SqKfBNg_ZsgNWu3-55jAe3LIb72gyVUIpkTlS4ayC16C7vjFWPJV_x0usil-GPfJlg18nFY6YwN-Vej9Dq0y_fMo1NYI_uSvvlp8PI9f5ixC76FJS-uMBFkpU_LVFHRcc6KexxFC096EOhFvZCKcrTrjdV7lBT6JxNo4pxLdvtkYgFBDwiwHpRcIHjeqFQ",
+          "width": 720
         }
       ]
     }
